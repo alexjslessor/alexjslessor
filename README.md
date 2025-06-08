@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/-React-informational?tyle=flat-square&logo=React)
 
 ## Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brightgreen?tyle=flat-square&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-9cf?tyle=flat-square&logo=Redis)
 
