@@ -11,7 +11,7 @@
 
 ## Python
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=for-the-badge)](https://fastapi.tiangolo.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=flat-square)](https://fastapi.tiangolo.com)
 
 ## Javascript
 ![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=JavaScript)
